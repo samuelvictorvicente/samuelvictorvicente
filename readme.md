@@ -1,15 +1,18 @@
 # Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
-Sou um iniciante em programação, determinado a encontrar minha primeira oportunidade como desenvolvedor. Estou interessado em iniciar minha carreira através de quality assurance, considerando essa área como uma valiosa introdução ao mundo da programação. Acredito que isso me proporcionará uma compreensão prática das necessidades de projetos reais, além de permitir interações com equipes de desenvolvimento, stakeholders e gestores de projeto. Meu objetivo é não apenas testar projetos utilizando automações e testes manuais, mas também aprender profundamente sobre o processo de desenvolvimento de software.
+Sou iniciante em programação, determinado a encontrar minha primeira oportunidade como desenvolvedor. Estou interessado em iniciar minha carreira por meio de Quality Assurance, considerando essa área uma valiosa introdução ao mundo da programação. Acredito que essa experiência me proporcionará uma compreensão prática das demandas de projetos reais e a oportunidade de colaborar com equipes de desenvolvimento e gestores de projetos. Meu objetivo é aprender de forma prática como funciona um time de desenvolvimento, expandir meus conhecimentos e entender o ciclo completo de desenvolvimento de software.
 
 ## Habilidades e Aprendizado
-- HTML5 e CSS3: Estou familiarizado com a construção básica de páginas web, o que me ajuda a entender como sites são estruturados e estilizados.
-- Lógica de Programação: Concluí cursos que me deram uma base sólida em lógica de programação, fundamental para resolver problemas e entender algoritmos.
-- JavaScript: Atualmente, estou no meio do curso completo de JavaScript, onde estou aprendendo a criar funcionalidades interativas para aplicações web.
+- HTML5 e CSS3: Tenho conhecimento na construção de páginas web, permitindo-me entender a estruturação e estilização de sites.
+- Lógica de Programação: Concluí cursos que me forneceram uma base sólida em lógica de programação, essencial para resolver problemas e compreender algoritmos.
+- JavaScript: Atualmente, estou no meio do curso completo de JavaScript da Onebitcode, aprendendo a desenvolver funcionalidades interativas para aplicações web, abrangendo desde conceitos básicos até avançados..
+- Git e Github:Concluí o curso de Git e GitHub da Alura, o que me proporcionou um conhecimento intermediário sobre controle de versão.
+- Docker:Tenho conhecimentos básicos em Docker, permitindo-me criar e gerenciar ambientes de desenvolvimento isolados e eficientes.
+- Cypress e Robot Framework: Possuo experiência com testes automatizados utilizando tanto Cypress quanto Robot Framework. Com o Cypress, desenvolvi testes de ponta a ponta para aplicações web, simulando interações de usuários e validando fluxos de trabalho. Já com o Robot Framework, criei cenários de teste para aplicações web utilizando uma abordagem baseada em Behavior Driven Development (BDD), garantindo clareza e colaboração no processo de teste.
 
 ## Projetos em Destaque
-Ainda estou trabalhando em meus primeiros projetos, que estarão disponíveis em breve!
+Atualmente, estou desenvolvendo meus primeiros projetos, que estarão disponíveis em breve!
 
 ## Formação acadêmica
 - Análise e desenvolvimento de sistemas (Fatec Americana, 2020 )
@@ -18,5 +21,5 @@ Ainda estou trabalhando em meus primeiros projetos, que estarão disponíveis em
 - LinkedIn: [Samuel Vicente](www.linkedin.com/in/samuelvictorvicente)
 - Email: samuelvictorvicente100@gmail.com
 
-## Objetivos Futuros
-Planejo aprofundar meus conhecimentos em automação de testes utilizando Cypress após finalizar o curso de JS. Acredito que após finalizar cypress, vou estar apto a me tornar QA junior.
+## Proximos passos
+Minhas próximas metas de estudo incluem as seguintes tecnologias: TypeScript, Node.js, SQL, CSS Moderno, SASS, Bootstrap, React, Next.js, e React Native.
